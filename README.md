@@ -1,16 +1,9 @@
 # santa_gift
 
-A new Flutter project.
+a flutter game made by Flame
 
-## Getting Started
+It consists of santa who tries to reach the gift without making the ice cupes touch him
 
-This project is a starting point for a Flutter application.
+![image](https://user-images.githubusercontent.com/50797015/208905574-f34a868b-48c4-41f9-8a56-75f20c4872d1.png)
+![image](https://user-images.githubusercontent.com/50797015/208905683-ee052499-f3e0-4cbe-bf51-435eddeacb57.png)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
